@@ -527,5 +527,6 @@ export default function GumroadProfile() {
           </div>
         </div>
       </div>
+	</div>
     );
   }
